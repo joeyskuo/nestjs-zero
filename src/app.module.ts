@@ -4,6 +4,6 @@ import { AppController } from './app.controller';
 @Module({
     controllers: [AppController]
 })
-class AppModule {
+export class AppModule {
 
 }
